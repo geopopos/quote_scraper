@@ -5,4 +5,4 @@ to use quote scraper import make_request and call:
 I know it is super elegant
 
 resources:
-[http://quotes.toscrape.com/](Quotes To Scrape)
+[Quotes to Scrape]: http://quotes.toscrape.com/
